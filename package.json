@@ -30,6 +30,6 @@
     "nanny-state": "^9.1.0"
   },
   "devDependencies": {
-    "parcel": "latest"
+    "parcel": "^2.10.3"
   }
 }
