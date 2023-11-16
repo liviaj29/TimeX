@@ -28,7 +28,8 @@
     "@supabase/supabase-js": "^2.38.4",
     "dotenv": "^16.3.1",
     "jog-list": "^0.4.0",
-    "nanny-state": "^9.1.0"
+    "nanny-state": "^9.1.0",
+    "process": "^0.11.10"
   },
   "devDependencies": {
     "parcel": "^2.10.3"
