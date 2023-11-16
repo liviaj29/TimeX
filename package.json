@@ -2,7 +2,7 @@
   "name": "timex",
   "version": "1.0.0",
   "description": "Duolingo-inspired times tables learning app",
-  "main": "index.html",
+  "source": "src/index.html",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
