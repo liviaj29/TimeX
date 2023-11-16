@@ -26,6 +26,7 @@
   "homepage": "https://github.com/liviaj29/TimeX#readme",
   "dependencies": {
     "@supabase/supabase-js": "^2.38.4",
+    "buffer": "^6.0.3",
     "dotenv": "^16.3.1",
     "jog-list": "^0.4.0",
     "nanny-state": "^9.1.0",
