@@ -1,21 +1,35 @@
 {
-    "name": "timex",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.html",
-    "scripts": {
-      "start": "parcel",
-      "build": "parcel"
-    },
-    "dependencies": {
-      "@supabase/supabase-js": "2.2.1",
-      "dotenv": "16.0.3",
-      "jog-list": "0.4.0",
-      "nanny-state": "7.6.1",
-      "parcel": "2.8.2"
-    },
-    "devDependencies": {
-      "parcel": "latest"
-    }
+  "name": "timex",
+  "version": "1.0.0",
+  "description": "Duolingo-inspired times tables learning app",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liviaj29/TimeX.git"
+  },
+  "keywords": [
+    "maths",
+    "timestables",
+    "learning",
+    "AI"
+  ],
+  "author": "Olivia Gibson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liviaj29/TimeX/issues"
+  },
+  "homepage": "https://github.com/liviaj29/TimeX#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.38.4",
+    "dotenv": "^16.3.1",
+    "nanny-state": "^9.1.0"
+  },
+  "devDependencies": {
+    "parcel": "latest"
   }
-  
+}
